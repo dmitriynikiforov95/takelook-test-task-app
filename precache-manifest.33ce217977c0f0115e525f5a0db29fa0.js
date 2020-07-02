@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dc955abb35e9b2bae26ec9e9eec2bcb",
+    "revision": "f38f064610e69ac39814e837412a0a73",
     "url": "/takelook-test-task-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/takelook-test-task-app/static/css/2.48db8b0f.chunk.css"
   },
   {
-    "revision": "8eaf32f1eb76a332272c",
+    "revision": "7ac8f9345faa64f8b929",
     "url": "/takelook-test-task-app/static/css/main.5be93bec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/takelook-test-task-app/static/js/2.13ba72a0.chunk.js"
   },
   {
-    "revision": "8eaf32f1eb76a332272c",
-    "url": "/takelook-test-task-app/static/js/main.f835cbfe.chunk.js"
+    "revision": "7ac8f9345faa64f8b929",
+    "url": "/takelook-test-task-app/static/js/main.66318fc0.chunk.js"
   },
   {
     "revision": "aa1961f475b01c4f7609",

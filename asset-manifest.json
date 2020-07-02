@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/takelook-test-task-app/static/css/main.5be93bec.chunk.css",
-    "main.js": "/takelook-test-task-app/static/js/main.f835cbfe.chunk.js",
-    "main.js.map": "/takelook-test-task-app/static/js/main.f835cbfe.chunk.js.map",
+    "main.js": "/takelook-test-task-app/static/js/main.66318fc0.chunk.js",
+    "main.js.map": "/takelook-test-task-app/static/js/main.66318fc0.chunk.js.map",
     "runtime-main.js": "/takelook-test-task-app/static/js/runtime-main.6679cfc1.js",
     "runtime-main.js.map": "/takelook-test-task-app/static/js/runtime-main.6679cfc1.js.map",
     "static/css/2.48db8b0f.chunk.css": "/takelook-test-task-app/static/css/2.48db8b0f.chunk.css",
     "static/js/2.13ba72a0.chunk.js": "/takelook-test-task-app/static/js/2.13ba72a0.chunk.js",
     "static/js/2.13ba72a0.chunk.js.map": "/takelook-test-task-app/static/js/2.13ba72a0.chunk.js.map",
     "index.html": "/takelook-test-task-app/index.html",
-    "precache-manifest.aec77931bc15934e0e195b91276c3209.js": "/takelook-test-task-app/precache-manifest.aec77931bc15934e0e195b91276c3209.js",
+    "precache-manifest.33ce217977c0f0115e525f5a0db29fa0.js": "/takelook-test-task-app/precache-manifest.33ce217977c0f0115e525f5a0db29fa0.js",
     "service-worker.js": "/takelook-test-task-app/service-worker.js",
     "static/css/2.48db8b0f.chunk.css.map": "/takelook-test-task-app/static/css/2.48db8b0f.chunk.css.map",
     "static/css/main.5be93bec.chunk.css.map": "/takelook-test-task-app/static/css/main.5be93bec.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.48db8b0f.chunk.css",
     "static/js/2.13ba72a0.chunk.js",
     "static/css/main.5be93bec.chunk.css",
-    "static/js/main.f835cbfe.chunk.js"
+    "static/js/main.66318fc0.chunk.js"
   ]
 }
